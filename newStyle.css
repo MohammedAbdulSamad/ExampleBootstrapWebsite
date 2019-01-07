@@ -1,0 +1,28 @@
+body {
+   margin-top: 20px;
+   font: 20px Montserrat, sans-serif;
+   letter-spacing: 2px;
+   line-height: 2;
+}
+
+.container {
+    padding: 20px 10px;
+}
+
+#whatwedo {
+    padding-top: 100px;
+}
+
+#client {
+    padding-top: 100px;
+}
+
+#contact {
+    padding-top: 100px;
+}
+
+#footer{
+    height: 200px;
+    padding: 100px 0;
+    text-align: center;
+}
